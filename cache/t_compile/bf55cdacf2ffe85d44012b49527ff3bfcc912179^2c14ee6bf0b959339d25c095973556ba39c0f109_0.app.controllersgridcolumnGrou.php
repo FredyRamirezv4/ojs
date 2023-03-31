@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.1.0, created on 2023-03-31 14:27:56
+/* Smarty version 4.1.0, created on 2023-03-31 14:53:17
   from 'app:controllersgridcolumnGrou' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.1.0',
-  'unifunc' => 'content_6426d1cc47d455_61016458',
+  'unifunc' => 'content_6426d7bd72f556_76116697',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6426d1cc47d455_61016458 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6426d7bd72f556_76116697 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <colgroup>
 	<?php

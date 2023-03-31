@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.1.0, created on 2023-03-31 14:27:55
+/* Smarty version 4.1.0, created on 2023-03-31 14:53:17
   from 'app:controllersgridfeaturefea' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.1.0',
-  'unifunc' => 'content_6426d1cbc32a47_51955539',
+  'unifunc' => 'content_6426d7bd303be7_66908971',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6426d1cbc32a47_51955539 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6426d7bd303be7_66908971 (Smarty_Internal_Template $_smarty_tpl) {
 ?>{
 	<?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['features']->value, 'feature', false, NULL, 'features', array (
